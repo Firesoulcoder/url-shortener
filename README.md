@@ -26,7 +26,7 @@ Feel free to explore and modify the script to suit your needs.
 
 # command
 ```bash
-pip install pyshortener
+pip install pyshorteners
 
 Happy shortening!
 
